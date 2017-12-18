@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Top 10 IT Issues: 2000&ndash;2018</title>
+        <meta name="description" content="">
+        <meta id="viewport" name="viewport" content="">
+        <script>
+          function viewportWidth() {
+            var width = Math.max(1260, document.documentElement.clientWidth);
+            document.getElementById('viewport').setAttribute("content", "width=" + width);
+            return width;
+          }
+          viewportWidth();
+        </script>
+        <link rel="stylesheet" href="files/style.css">
+    </head>
+    <body>
+		<!--[if lte IE 8]>
+			<p class="browsehappy">Please <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a> to view the interactive graphic.</p>
+		<![endif]-->
+		<!--[if gte IE 9]><!-->
+			<noscript>
+				<p class="browsehappy">Please <a href="http://www.enable-javascript.com/" target="_blank">enable JavaScript</a> to view the interactive graphic.</p>
+			</noscript>
+		<!--<![endif]-->
+
+		<div id="header">
+			<h1><img id="logo" alt="EDUCAUSE logo" src="files/educause_logo.png" width="188"></h1>
+			<h2 id="chart-title">TOP 10 IT ISSUES: <span class="nowrap">2000&ndash;2018</span></h2>
+		</div>
+		<div class="clear text">
+			<p>This graphic tracks the rankings of the top 10 IT issues since 2000.
+			<strong>Clicking or tapping a year</strong> along the top will show the top 10 IT issues for that year.
+			<strong>Hovering over or tapping an issue</strong> will highlight the trend in importance for that issue across years.</p>
+		</div>
+		<div class="clear" id="chart"></div>
+		<div class="clear" id="source"></div>
+		<div class="clear text" style="margin-top: 45px">
+			<h3>Thanks to the 2018 EDUCAUSE Top 10 IT Issues Sponsor</h3>
+			<div style="float: left; margin-right: 30px; margin-bottom: 20px; text-align: center">
+				<a href="https://www.emc.com/" target="_blank"><img alt="Dell EMC logo" src="files/dell_emc.png" width="188"></a><br>
+				<span style="font-size: 11px; color: #666666;">Platinum Partner</span>
+			</div>
+			<p>
+				<a href="https://www.emc.com/" target="_blank">Dell EMC</a>, Platinum Partner uses the EDUCAUSE Top 10 IT issues report to develop and deliver innovative technology solutions that help higher education institutions solve complex IT challenges and improve student outcomes.
+			</p>
+		</div>
+
+		<!--[if gte IE 9]><!-->
+			<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+			<script>window.d3 || document.write('<script src="files/d3_3.5.5.min.js"><\/script>');</script>
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<script>window.jQuery || document.write('<script src="files/jquery_2.1.4.min.js"><\/script>');</script>
+			<script src="files/script.js"></script>
+		<!--<![endif]-->
+    </body>
+</html>

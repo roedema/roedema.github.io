@@ -1,0 +1,78 @@
+[
+    {
+        "year": 2000,
+        "issues": ["Funding IT", "Faculty development, support, and training", "Distance education", "E-learning environments", "Enterprise administrative systems", "IT staffing and human resources", "IT strategic planning", "Online student services", "Advanced networking challenges", "Support services demands"]
+    }, 
+    {
+        "year": 2001,
+        "issues": ["Administrative systems/|enterprise resource planning", "Information technology funding strategies", "Faculty development, support, and training", "IT staffing and HR management", "Distance education", "Teaching and learning strategies", "IT strategic planning", "Online student services", "Maintaining network and IT infrastructure", "Electronic classrooms and technology buildings"]
+    }, 
+    {
+        "year": 2002,
+        "issues": ["Administrative systems/ERP", "IT funding strategies", "Faculty development, support, and training", "IT strategic planning", "Security management", "Online student services", "Teaching and learning strategies", "Distance education", "Maintaining network infrastructure", "Emerging network technologies"]
+    }, 
+    {
+        "year": 2003,
+        "issues": ["Funding challenges", "Adminstrative/ERP/information systems", "Security and ID management", "Maintaining and upgrading|network and IT infrastructure", "Faculty development, support, and training", "IT strategic planning", "Web services/web-based systems", "Distributed learninig/teaching|and learning strategies", "Enterprise-level portals", "Online student services"]
+    }, 
+    {
+        "year": 2004,
+        "issues": ["Funding IT", "Administrative/ERP/information systems", "Security and identity management", "Strategic planning for IT", "Faculty development, support,|and training for IT", "Infrastructure management for IT", "E-Learning/distributed teaching and learning", "Web systems and services", "Enterprise-level portals", "Business continuity/disaster recovery (tie)", "Governance, organization, and leadership for IT (tie)"]
+    }, 
+    {
+        "year": 2005,
+        "issues": ["Funding IT", "Security and identity management", "Administrative/ERP/information systems", "Strategic planning for IT", "Infrastructure management for IT", "Faculty development, support, and training", "E-learning/distributed teaching and learning", "Governance, organization, and leadership for IT", "Enterprise-level portals", "Web systems and services"]
+    }, 
+    {
+        "year": 2006,
+        "issues": [" Security and identity management", " Funding IT", " Administrative/ERP/information systems", " Disaster recovery/business continuity", " Faculty development, support, and training", " Infrastructure", " Strategic planning", " Governance, organization, and leadership", "E-learning/distributed teaching and learning", "Web systems and services"]
+    }, 
+    {
+        "year": 2007,
+        "issues": ["Funding IT", "Security", "Administrative/ERP/information systems", "Identity/access management", "Disaster recovery/business continuity", "Faculty development, support, and training", "Infrastructure", "Strategic planning", "Course/learning management systems", "Governance, organization, and leadership for IT"]
+    }, 
+    {
+        "year": 2008,
+        "issues": ["Security", "Administrative/ERP/information systems", "Funding IT", "Infrastructure", "Identity/access management", "Disaster recovery/business continuity", "Governance, organization, and leadership", "Change management", "E-Learning/distributed teaching and learning", "Staffing/HR management/trainings"]
+    }, 
+    {
+        "year": 2009,
+        "issues": ["Funding IT", "Administrative/ERP/information systems", "Security", "Infrastructure/cyberinfrastructure", "Teaching and learning with technology", "Identity/access management", "Governance, organization, and leadership for IT", "Disaster recovery/business continuity", "Agility/adaptability/responsiveness", "Learning management systems"]
+    }, 
+    {
+        "year": 2010,
+        "issues": ["Funding IT", "Administrative/ERP/information systems", "Security", "Teaching and learning with technology", "Identity/access management", "Disaster recovery/business continuity (tie)", "Governance, organization, and leadership (tie)", "Agility, adaptability, responsiveness", "Learning management systems", "Strategic planning", "Infrastructure/cyberinfrastructure"]
+    }, 
+    {
+        "year": 2011,
+        "issues": ["Funding IT", "Administrative/ERP/information systems", "Teaching and learning with technology", "Security", "Mobile technologies", "Agility/adaptability/responsiveness", "Governance, portfolio/project management", "Infrastructure/cyberinfrastructure", "Disaster recovery/business continuity", "Strategic planning"]
+    }, 
+    {
+        "year": 2012,
+        "issues": ["Updating IT skills and roles", "IT consumerization/bring your own device", "Cloud strategy", "Using IT to improve institutional efficiency", "Integrating IT into institutional decision making", "Analytics to support institutional outcomes", "Funding IT strategically", "Using IT transformatively", "Supporting research (HPC, large data, analytics)", "Institution-wide IT governance"]
+    },
+    {
+        "year": 2013,
+        "issues": ["Access demand","Improving student outcomes","Cloud strategy","IT staffing models","Information security","Funding IT strategically","Sustainable online learning","IT consumerization and BYOD","Using IT transformatively","Analytics to support institutional outcomes"]
+    },
+    {
+        "year": 2014,
+        "issues": ["Improving student outcomes","Establishing a partnership between IT|and institutional leadership","Assisting faculty with information technology","IT staffing models","Analytics to support institutional outcomes","Funding IT strategically","Access demand","Service delivery strategy","Sustainable online learning","IT compliance and risk management (tie)","Enterprise IT architecture (tie)"]
+    },
+	{
+		"year": 2015,
+	    "issues": ["Evolving IT staffing models","Optimizing technology in teaching|and learning","Funding IT strategically","Improving student outcomes","Demonstrating IT’s value","Increasing capacity for change","Providing user support","Developing security policies|for the institution","Developing enterprise IT architecture","Balancing information security|and openness"]
+	},
+	{
+		"year": 2016,
+		"issues": ["Information security", "Optimizing educational technology", "Student success technologies", "IT workforce hiring and retention", "Institutional data management", "IT funding models", "BI and analytics", "Enterprise application integrations", "IT organizational development", "E-learning and online education"]
+	},
+	{
+		"year": 2017,
+		"issues": ["Information security", "Student success and completion", "Data-informed decision making", "Strategic leadership", "Sustainable funding", "Data management and governance", "Higher education affordability", "Sustainable staffing", "Next-generation enterprise IT", "Digital transformation of learning"]
+	},
+	{
+		"year": 2018,
+		"issues": ["Information security", "Student success", "Institution-wide IT strategy", "Data-enabled institutional culture", "Student-centered institution", "Higher education affordability", "Sustainable staffing", "Digital integrations (tie)", "Data management and governance (tie)", "Change leadership"]
+	}
+]
