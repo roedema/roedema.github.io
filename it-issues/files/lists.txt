@@ -13,11 +13,11 @@
     }, 
     {
         "year": 2003,
-        "issues": ["Funding challenges", "Adminstrative/ERP/information systems", "Security and ID management", "Maintaining and upgrading|network and IT infrastructure", "Faculty development, support, and training", "IT strategic planning", "Web services/web-based systems", "Distributed learning/teaching|and learning strategies", "Enterprise-level portals", "Online student services"]
+        "issues": ["Funding challenges", "Adminstrative/ERP/information systems", "Security and ID management", "Maintaining and upgrading|network and IT infrastructure", "Faculty development, support, and training", "IT strategic planning", "Web services/web-based systems", "Distributed learninig/teaching|and learning strategies", "Enterprise-level portals", "Online student services"]
     }, 
     {
         "year": 2004,
-        "issues": ["Funding IT", "Administrative/ERP/information systems", "Security and identity management", "Strategic planning for IT", "Faculty development, support,|and training for IT", "Infrastructure management for IT", "E-learning/distributed teaching and learning", "Web systems and services", "Enterprise-level portals", "Business continuity/disaster recovery (tie)", "Governance, organization, and leadership for IT (tie)"]
+        "issues": ["Funding IT", "Administrative/ERP/information systems", "Security and identity management", "Strategic planning for IT", "Faculty development, support,|and training for IT", "Infrastructure management for IT", "E-Learning/distributed teaching and learning", "Web systems and services", "Enterprise-level portals", "Business continuity/disaster recovery (tie)", "Governance, organization, and leadership for IT (tie)"]
     }, 
     {
         "year": 2005,
@@ -33,7 +33,7 @@
     }, 
     {
         "year": 2008,
-        "issues": ["Security", "Administrative/ERP/information systems", "Funding IT", "Infrastructure", "Identity/access management", "Disaster recovery/business continuity", "Governance, organization, and leadership", "Change management", "E-learning/distributed teaching and learning", "Staffing/HR management/training"]
+        "issues": ["Security", "Administrative/ERP/information systems", "Funding IT", "Infrastructure", "Identity/access management", "Disaster recovery/business continuity", "Governance, organization, and leadership", "Change management", "E-Learning/distributed teaching and learning", "Staffing/HR management/trainings"]
     }, 
     {
         "year": 2009,
